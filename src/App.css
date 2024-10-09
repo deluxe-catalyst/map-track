@@ -1,0 +1,23 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  height: 100vh;
+}
+
+.custom-marker {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-marker div {
+  font-size: 50px;
+  color: red;
+}
+
+@media (min-width: 600px) {
+  .custom-marker div {
+    font-size: 50px;
+  }
+}
+
