@@ -4,6 +4,6 @@
 
    ```bash
    git clone https://github.com/deluxe-catalyst/map-track.git
-   cd vite-project
+   cd map-track
    npm i
    npm run dev
